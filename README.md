@@ -1,0 +1,2 @@
+# SoloProjectExercise
+About the homework
