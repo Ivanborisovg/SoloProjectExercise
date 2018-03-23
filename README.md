@@ -14,4 +14,8 @@ Hello, GitHub!
 =======
 This is a test update
 >>>>>>> d9aa9e5170e56ba750f93e76492dc9497cebc9b4
+<<<<<<< HEAD
 I'm still here !!!
+=======
+#Hello again !!! :)
+>>>>>>> develop
